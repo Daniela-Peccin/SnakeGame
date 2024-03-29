@@ -1,0 +1,36 @@
+/* Grid Style ------------------------------  */
+
+table {
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+.grid_class td {
+    border: 1px solid green;
+    height: 40px;
+    width: 40px;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+.grid_class tr {
+    background-color:palegreen;
+    color: palegreen 
+}
+
+/* Fruit Styles ---------- */
+
+.goodFruit_class {
+    background-color: orange;
+    color: orange
+}
+.badFruit_Class {
+    background-color: orangered;
+    color: orangered
+}
+
+/* Snake Styles ---------- */
+
+.head_class {
+background-color: teal;
+color: teal
+}
